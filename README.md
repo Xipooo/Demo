@@ -1,2 +1,2 @@
 # Demo
-Demo for classroom
+Demo for .NET classroom
